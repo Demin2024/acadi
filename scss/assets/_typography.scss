@@ -1,0 +1,19 @@
+* {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    color: $main_text_color;
+}
+
+h1 {
+    font-family: 'Yeseva One';
+    font-size: 80px;
+    color: $header_text_color;
+}
+
+h1.contrast {
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    color: $header_text_color;
+}
