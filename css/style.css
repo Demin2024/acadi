@@ -308,8 +308,8 @@ template {
 }
 
 @font-face {
-  font-family: "Yeseva One";
-  src: url("../fonts/YesevaOne.ttf");
+  font-family: "advergothic-normal";
+  src: url("../fonts/advergothic-normal.ttf");
   font-weight: 400;
   font-style: normal;
 }
